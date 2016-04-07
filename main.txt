@@ -1,1 +1,3 @@
-First commit from master
+First commit from master.
+
+Some other change in this file.
